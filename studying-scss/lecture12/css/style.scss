@@ -1,0 +1,20 @@
+$normal-color:red;
+$main-color:orange;
+
+$normal-font-size:30px;
+
+header{
+  .box-wrapper{
+    .box{
+      .sentence{
+        background: $normal-color;
+        p{
+          &.important{
+            color: $main-color;
+            font-size: $normal-font-size;
+          }
+        }
+      }
+    }
+  }
+}

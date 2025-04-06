@@ -1,0 +1,7 @@
+header .box-wrapper .box .sentence {
+  background: red;
+}
+header .box-wrapper .box .sentence p.important {
+  color: orange;
+  font-size: 30px;
+}/*# sourceMappingURL=style.css.map */

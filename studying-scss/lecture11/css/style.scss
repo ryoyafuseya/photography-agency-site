@@ -1,0 +1,19 @@
+header{
+  .box-wrapper{
+    .box{
+      &.normal{
+        background: red;
+      }
+      &.abnormal{
+        background: green;
+      }
+      .sentence{
+        p{
+          &.important{
+            font-size: 30px;
+          }
+        }
+      }
+    }
+  }
+}

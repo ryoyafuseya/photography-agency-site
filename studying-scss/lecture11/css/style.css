@@ -1,0 +1,9 @@
+header .box-wrapper .box.normal {
+  background: red;
+}
+header .box-wrapper .box.abnormal {
+  background: green;
+}
+header .box-wrapper .box .sentence p.important {
+  font-size: 30px;
+}/*# sourceMappingURL=style.css.map */
